@@ -1,1 +1,1 @@
-Stanford CS224N solutions, Winter 2020 lectures
+Stanford CS224N solutions, Winter 2021 lectures
