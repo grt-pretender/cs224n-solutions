@@ -1,2 +1,1 @@
-# for-dict
-Tool for text preparation (for voice recording) / TBA
+Stanford CS224N solutions, Winter 2020 lectures
